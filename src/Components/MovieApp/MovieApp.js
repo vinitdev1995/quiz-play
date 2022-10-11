@@ -8,7 +8,7 @@ const MovieWeb = () => {
         <div className={styles.main}>
             <div className={styles.header}>
                 <div className={styles.app_header}>Movie App</div>
-                <div className={styles.header_right}className="header-right">
+                <div className={styles.header_right}>
                     <img height="25px" width="25px" src={search}/>
                 </div>
             </div>
