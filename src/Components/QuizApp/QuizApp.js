@@ -27,8 +27,8 @@ const QuizApp = () => {
             <div className="container">
                 <div className="quiz-contests">
                     <div className="quiz-contests-list">
-                        {data?.length > 0 && data?.map((item) =>
-                            <div className="quiz-card">
+                        {data?.length > 0 && data?.map((item, i) =>
+                            <div key={i} className="quiz-card">
                                 <div className="card-content">
                                     <div className="thumbnial-img">
                                         <img src="https://play240.atmequiz.com/img/films-and-celebraty.png" alt="FILM AND CELEBRITY Contest Quiz"/>

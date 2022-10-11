@@ -10,8 +10,8 @@ const Header = () => {
         <Router>
             <Routes>
                 <Route exact path="/" element={<WinPage/>}/>
-                <Route exact path="/1" element={<QuizApp/>}/>
-                <Route exact path="/2" element={<MovieApp/>}/>
+                {/*<Route exact path="/?view=1" element={<QuizApp/>}/>
+                <Route exact path="/?view=2" element={<MovieApp/>}/>*/}
             </Routes>
         </Router>
     </>)
