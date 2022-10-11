@@ -1,0 +1,62 @@
+[
+  {
+    "imgURL": "https://play240.atmequiz.com/img/coin-icon.png",
+    "heading":"FILM AND CELEBRITY",
+    "WinAmount":"50,000",
+    "winnerAnnouncementTime" : "3:30 PM",
+    "entry": "10",
+    "coin": "50",
+    "users":"5582",
+    "isLive":true
+  },
+  {
+    "imgURL": "https://play240.atmequiz.com/img/coin-icon.png",
+    "heading":"BUSINESS",
+    "WinAmount":"20,000",
+    "winnerAnnouncementTime" : "6:30 PM",
+    "entry": "10",
+    "coin": "50",
+    "users":"5582",
+    "isLive":true
+  },
+  {
+    "imgURL": "https://play240.atmequiz.com/img/coin-icon.png",
+    "heading":"BOLLYWOOD",
+    "WinAmount":"30,000",
+    "winnerAnnouncementTime" : "3:30 PM",
+    "entry": "10",
+    "coin": "50",
+    "users": "5582",
+    "isLive": true
+  },
+  {
+    "imgURL": "https://play240.atmequiz.com/img/coin-icon.png",
+    "heading":"CRICKET",
+    "WinAmount":"40,000",
+    "winnerAnnouncementTime" : "2:30 PM",
+    "entry": "10",
+    "coin": "50",
+    "users": "5582",
+    "isLive": true
+  },
+  {
+    "imgURL": "https://play240.atmequiz.com/img/coin-icon.png",
+    "heading":"BOLLYWOOD",
+    "WinAmount":"30,000",
+    "winnerAnnouncementTime" : "8:30 PM",
+    "entry": "10",
+    "coin": "50",
+    "users": "5582",
+    "isLive": true
+  },
+  {
+    "imgURL": "https://play240.atmequiz.com/img/coin-icon.png",
+    "heading":"CRICKET",
+    "WinAmount":"40,000",
+    "winnerAnnouncementTime" : "9:30 PM",
+    "entry": "10",
+    "coin": "50",
+    "users": "5582",
+    "isLive": true
+  }
+]

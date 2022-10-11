@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0",
+    "releaseYear": "2019",
+    "name": "Stranger Things",
+    "image": "https://wallpapers.moviemania.io/desktop/tv/66732/437596/stranger-things-desktop-wallpaper.jpg?w=646&h=365",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "pixelSize": [
+      "2880x1800",
+      "2560x1600",
+      "2560x1440",
+      "1920x1200",
+      "1920x1080",
+      "1680x1050",
+      "1600x900",
+      "1440x900",
+      "1366x768",
+      "1360x768",
+      "1280x1024"
+    ]
+  },
+  {
+    "id": "1",
+    "releaseYear": "2018",
+    "name": "Avengers: Infinity War",
+    "image": "https://pursuenews.com/wp-content/uploads/2018/03/Avengers-Infinity-War-poster.jpg",
+    "description": "With the biggest movie in superhero history just a month away from being released, Marvel decided that it was time to unveil the official poster. To this point, the only actual poster that fans have seen has been the teaser, which simply contains the Avengers logo across the artwork.",
+    "pixelSize": [
+      "2880x1800",
+      "2560x1600",
+      "2560x1440",
+      "1920x1200",
+      "1920x1080",
+      "1680x1050",
+      "1600x900",
+      "1440x900",
+      "1366x768",
+      "1360x768",
+      "1280x1024"
+    ]
+  },
+  {
+    "id": "3",
+    "releaseYear": "2022",
+    "name": "Top Gun: Maverick",
+    "image": "https://static.sacnilk.com/articles/entertainment/hollywood/8098.jpg",
+    "description": "Top Gun: Maverick is a 2022 American action drama film directed by Joseph Kosinski. It is the sequel to the 1986 film Top Gun and the second installment in the Top Gun film series. Written by Ehren Kruger, Eric Warren Singer, and Christopher McQuarrie, the film is based on stories by Peter Craig and Justin Marks.",
+    "pixelSize": [
+      "2880x1800",
+      "2560x1600",
+      "2560x1440",
+      "1920x1200",
+      "1920x1080",
+      "1680x1050",
+      "1600x900",
+      "1440x900",
+      "1366x768",
+      "1360x768",
+      "1280x1024"
+    ]
+  }
+]
