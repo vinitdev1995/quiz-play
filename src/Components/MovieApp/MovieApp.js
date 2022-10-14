@@ -31,7 +31,7 @@ const MovieWeb = () => {
                             className={styles.about_movie_name}>{value?.name}</span></div>
                         <div className={styles.description}>{value?.description}</div>
                        <div>
-                           <a target={redirectUrl} rel="noreferrer">
+                           <a href={redirectUrl} rel="noreferrer">
                            <img src={require(`../../images/${ind+1}.png`)} style={{width: '100%'}} />
                            </a>
                        </div>

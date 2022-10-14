@@ -35,8 +35,11 @@ const Home = () => {
                             <h2>Play Quiz and Win Coins!</h2>
                             <ul>
                                 {data.map((value, ind) =>
-                                    <li key={ind}><span className="check_background"><CheckTwoToneIcon
-                                        sx={{height: "14px", width: "21px"}}/></span>{value?.list}
+                                    <li key={ind}><span className="check_background">
+                                        <CheckTwoToneIcon
+                                        sx={{height: "14px", width: "21px", color: 'white'}}/>
+                                    </span>
+                                        {value?.list}
                                     </li>)}
                             </ul>
                         </section>
@@ -44,7 +47,7 @@ const Home = () => {
                 </div>
             </a>
         </div>
-    )
+)
 }
 
 export default Home;

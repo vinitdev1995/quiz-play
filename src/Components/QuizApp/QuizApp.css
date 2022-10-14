@@ -305,19 +305,18 @@
     animation-fill-mode: both;
     position: relative;
     overflow: hidden;
-    background: #e9711f;
+    background: #f0f4ff 0% 0% no-repeat padding-box;
     padding: 16px;
     height: 56px;
     width: 100%;
     line-height: 100%;
     display: flex;
-    -webkit-box-pack: center;
     justify-content: center;
     border-radius: 8px;
     font-size: 22px;
     font-weight: 700;
-    color: #fff;
     border: none;
+    color: #2a2f98;
 }
 
 .win_container {
