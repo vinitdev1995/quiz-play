@@ -1,1 +1,1 @@
-export const redirectUrl = 'https://u.livetvgram.com/bk/';
+export const redirectUrl = 'https://play558.atmequiz.com/start';

@@ -21,16 +21,21 @@ const MovieWeb = () => {
                                 className={styles.release_year}>({value?.releaseYear})</span>
                             </h1>
                         </a>
-                         <img className={styles.movie_poster} src={value?.image}/>
+                        <img className={styles.movie_poster} src={value?.image}/>
                         {value?.pixelSize.map((btn, ind) => {
                             return (<React.Fragment key={ind}>
                                 <button className={styles.pixel_btn}>{btn}</button>
                             </React.Fragment>)
                         })}
-                            <div className={styles.about_movie}>About <span
-                                className={styles.about_movie_name}>{value?.name}</span></div>
-                            <div className={styles.description}>{value?.description}</div>
-                    </div>
+                        <div className={styles.about_movie}>About <span
+                            className={styles.about_movie_name}>{value?.name}</span></div>
+                        <div className={styles.description}>{value?.description}</div>
+                       <div>
+                           <a target={redirectUrl} rel="noreferrer">
+                           <img src={require(`../../images/${ind+1}.png`)} style={{width: '100%'}} />
+                           </a>
+                       </div>
+                     </div>
                 )}
             </div>
         </div>

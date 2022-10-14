@@ -40,11 +40,91 @@
     ]
   },
   {
-    "id": "3",
+    "id": "2",
     "releaseYear": "2022",
     "name": "Top Gun: Maverick",
     "image": "https://static.sacnilk.com/articles/entertainment/hollywood/8098.jpg",
     "description": "Top Gun: Maverick is a 2022 American action drama film directed by Joseph Kosinski. It is the sequel to the 1986 film Top Gun and the second installment in the Top Gun film series. Written by Ehren Kruger, Eric Warren Singer, and Christopher McQuarrie, the film is based on stories by Peter Craig and Justin Marks.",
+    "pixelSize": [
+      "2880x1800",
+      "2560x1600",
+      "2560x1440",
+      "1920x1200",
+      "1920x1080",
+      "1680x1050",
+      "1600x900",
+      "1440x900",
+      "1366x768",
+      "1360x768",
+      "1280x1024"
+    ]
+  },
+  {
+    "id": "3",
+    "releaseYear": "2022",
+    "name": "The Grey Man",
+    "image": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/thegreyman-20220427103045-20922.jpg",
+    "description": "The Grey Man is an American action thriller jointly directed and co-produced by Anthony and Joe Russo. The flick is based on the novel of the same name written by Mark Greaney. It was produced with a budget of $200 million, and currently, it is the most expensive film ever produced by Netflix.",
+    "pixelSize": [
+      "2880x1800",
+      "2560x1600",
+      "2560x1440",
+      "1920x1200",
+      "1920x1080",
+      "1680x1050",
+      "1600x900",
+      "1440x900",
+      "1366x768",
+      "1360x768",
+      "1280x1024"
+    ]
+  },
+  {
+    "id": "4",
+    "releaseYear": "2022",
+    "name": "Light year",
+    "image": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/lightyear-20220210105840-20739.jpg",
+    "description": "Lightyear is an American computer-animated science-fiction action film jointly produced by Walt Disney Pictures and Pixar animation studios. This spin-off from the Toy Story film series serves as an origin story for the Buzz Lightyear. Angus MacLane directed this flick, and Chris Evans lent voice to the titular character.",
+    "pixelSize": [
+      "2880x1800",
+      "2560x1600",
+      "2560x1440",
+      "1920x1200",
+      "1920x1080",
+      "1680x1050",
+      "1600x900",
+      "1440x900",
+      "1366x768",
+      "1360x768",
+      "1280x1024"
+    ]
+  },
+  {
+    "id": "5",
+    "releaseYear": "2022",
+    "name": "Spider-Man",
+    "image": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/spider-manacrossthespider-verse-20220504081028-20937.jpg",
+    "description": "Spider-Man: Across the Spider-Verse is a computer-animated superhero film based on Marvel comic character Miles Morales/Spider-Man. It is a sequel to 2018 Spider-Man: Into the Spider-Verse.",
+    "pixelSize": [
+      "2880x1800",
+      "2560x1600",
+      "2560x1440",
+      "1920x1200",
+      "1920x1080",
+      "1680x1050",
+      "1600x900",
+      "1440x900",
+      "1366x768",
+      "1360x768",
+      "1280x1024"
+    ]
+  },
+  {
+    "id": "6",
+    "releaseYear": "2022",
+    "name": "Indiana Jones 5",
+    "image": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/indianajones5-20210412094440-20032.jpg",
+    "description": "Indiana Jones 5 is an adventure comedy movie directed by James Mangold. Harrison Ford reprises the role of a fictional professor of archaeology. Phoebe Waller-Bridge is roped to play the female lead in the flick.",
     "pixelSize": [
       "2880x1800",
       "2560x1600",
