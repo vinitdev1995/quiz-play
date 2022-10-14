@@ -1,17 +1,12 @@
 import React from "react";
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import QuizApp from "./QuizApp/QuizApp";
-import MovieApp from "./MovieApp/MovieApp";
-import WinPage from "./QuizApp/WinPage";
+import Main from "./Main";
 
 const Header = () => {
-
     return (<>
         <Router>
             <Routes>
-                <Route exact path="/" element={<WinPage/>}/>
-                {/*<Route exact path="/?view=1" element={<QuizApp/>}/>
-                <Route exact path="/?view=2" element={<MovieApp/>}/>*/}
+                <Route exact path="*" element={<Main/>}/>
             </Routes>
         </Router>
     </>)
